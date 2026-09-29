@@ -7,7 +7,6 @@ This Java project demonstrates the data structures and algorithms required for t
 
 ## Group Identification
 
-**Group Number:** Not assigned
 
 | Student Number | Full Name |
 |---|---|
